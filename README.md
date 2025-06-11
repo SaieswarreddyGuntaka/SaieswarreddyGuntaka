@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sai Eswar Reddy Guntaka!
 
-🎯 **Cloud & Full Stack Engineer | Data-Driven Developer | Power Platform Enthusiast**
+🎯 **Data-Driven Developer | Power Platform Enthusiast**
 
 Welcome to my GitHub! I'm passionate about building intelligent, cloud-based applications that optimize workflows and deliver impactful insights. I thrive at the intersection of **Cloud Infrastructure**, **Business Intelligence**, and **Full-Stack Development**.
 
